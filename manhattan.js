@@ -34,7 +34,7 @@ let nextStep = function (ArrayOfturnees, newValue) {
 
 //Setup the field, we build n rows and n elements within every row.
 // row 1 has id r1, cell one in row three has id 31. 
-var n = 31;
+var n = 15;
 var element = document.getElementById("root");
 
 for (i = 0; i < n; i++) {
